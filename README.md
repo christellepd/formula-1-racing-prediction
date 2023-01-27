@@ -3,7 +3,7 @@
 
 
 ### :green_book: Description
-This repository shows an exploratory and predictive analysis of Formula 1 Racing Winners and sports betting simulation.
+This repository shows an exploratory and predictive analysis of 2021 Formula 1 Racing Winners and sports betting simulation using a machine learning alogirthm `Logistic Regression`.
 
 ---
 ### :computer: Tools
