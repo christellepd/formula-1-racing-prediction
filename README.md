@@ -14,4 +14,4 @@ This repository shows an exploratory and predictive analysis of 2021 Formula 1 R
 ### :page_with_curl: Credits
 - [Photo](https://www.formula1.com/en/latest/features/2015/9/do-you-remember----f1s-first-ever-night-race.html)
 - [Dataset](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
-- [Related works](https://towardsdatascience.com/formula-1-race-predictor-5d4bfae887da)
+- [Inspiration & related works](https://towardsdatascience.com/formula-1-race-predictor-5d4bfae887da)
