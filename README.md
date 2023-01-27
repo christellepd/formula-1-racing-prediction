@@ -1,5 +1,5 @@
 # :car: Beating the Odds: A Formula 1 Racing Prediction
-![](./f_1.jpeg)
+![](./Others/f_1.jpeg)
 
 
 ### :green_book: Description
