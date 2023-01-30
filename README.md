@@ -6,7 +6,7 @@
 This repository shows an explanatory and predictive analysis of 2021 Formula 1 Racing Winners and sports betting simulation using a machine learning algorithm `Logistic Regression`.
 
 ---
-### :computer: Tools
+### :computer: Tech Stack
 `Python` `Pandas` `NumPy` `scikit-learn` `Seaborn` `Tableau`
 
 
